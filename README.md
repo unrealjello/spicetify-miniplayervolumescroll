@@ -1,4 +1,4 @@
-# Spicetify Miniplayer Volume Scroll
+# Miniplayer Volume Scroll
 
 A lightweight [Spicetify](https://spicetify.app/) extension that adds mouse-over scrolling volume control to Spotify's official Miniplayer.
 
