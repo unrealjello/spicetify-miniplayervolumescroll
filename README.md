@@ -8,5 +8,5 @@ Even when the Miniplayer is collapsed to it's smallest size where the volume sli
 
 ## Features
 
-- **Hover-to-Scroll Volume:** Adjust playback volume by scrolling anywhere over the floating Miniplayer.
+- **Mouse-Over Scrolling Volume:** Adjust playback volume by scrolling anywhere over the floating Miniplayer.
 - **Smooth Increments:** Steps volume up or down in 5% increments per scroll tick.
