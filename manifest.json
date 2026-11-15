@@ -1,14 +1,13 @@
 {
   "name": "Miniplayer Volume Scroll",
   "description": "Scroll mouse wheel anywhere over Spotify's Picture-in-Picture Miniplayer to adjust volume.",
-  "preview": "preview.png",
   "main": "miniplayerVolumeScroll.js",
   "readme": "README.md",
   "authors": [
     {
-      "name": "YourGitHubUsername",
-      "url": "https://github.com/YourGitHubUsername"
+      "name": "unrealjello",
+      "url": "https://github.com/unrealjello"
     }
   ],
-  "tags": ["volume", "miniplayer", "scroll", "pip"]
+  "tags": ["volume", "miniplayer", "scroll", "Spicetify"]
 }
